@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- 1. GitHub usernameを変更 -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=RyuAmakaze" />
+</div>
 
-<!--
-**RyuAmakaze/RyuAmakaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-Here are some ideas to get you started:
+- 📫 How to reach me: [X(Twitter) - @amakazeryuu](https://x.com/amakazeryuu)
+- 🌱Homepage: [Google Site](https://sites.google.com/view/yu-yamaoka/)
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=RyuAmakaze&color=white)](https://github.com/evirunurm/github-stats)
