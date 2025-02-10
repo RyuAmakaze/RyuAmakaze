@@ -3,9 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=RyuAmakaze" />
 </div>
 
-- 📫 How to reach me:<br>
-[X(Twitter) - @amakazeryuu](https://x.com/amakazeryuu)　<br>
-email : amakazelab[@]gmail.com<br>
+- [X(Twitter) - @amakazeryuu](https://x.com/amakazeryuu)　<br>
+- ✉ email : amakazelab[@]gmail.com<br>
 - 🌱Homepage: [Google Site](https://sites.google.com/view/yu-yamaoka/)
 <br>
 
