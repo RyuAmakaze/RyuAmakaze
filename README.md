@@ -3,6 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=RyuAmakaze" />
 </div>
 
+Ph.D (Information Science)
+
 - [X(Twitter) - @amakazeryuu](https://x.com/amakazeryuu)　<br>
 - ✉ email : amakazelab[@]gmail.com<br>
 - 🌱Homepage: [Google Site](https://sites.google.com/view/yu-yamaoka/)
